@@ -1,5 +1,5 @@
 Team Members:
 Dev1:Sakshi
 Dev2:Aastha
-Dev3
+Dev3:Nikita
 Manager
